@@ -12,7 +12,7 @@ This approach has several benefits. For one, it makes Python memory-efficient, s
 x = 10
 y = x
 x = 20
-```
+``
 
 In this case, y will still reference the integer object containing the value 10, while x now references a different integer object containing the value 20.
 
